@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on [redacted] and a discord bot
 - 🌱 I’m currently learning Java and GDscript
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
