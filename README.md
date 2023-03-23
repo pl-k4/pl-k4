@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently working on a minecraft server
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Nerbles1#2319 on discord   
 - 😄 Pronouns: he/him
