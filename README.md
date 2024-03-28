@@ -15,6 +15,10 @@ Backend:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,java)](https://skillicons.dev)   
 
+Other:   
+
+[![My Skills](https://skillicons.dev/icons?i=godot,discordjs)](https://skillicons.dev)   
+
 # Github Stats    
 ![](https://github-readme-stats.vercel.app/api?username=Nerbles1&show_icons=true&theme=radical)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerbles1&theme=radical&hide_border=false)<br/>
