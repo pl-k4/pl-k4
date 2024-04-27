@@ -20,6 +20,7 @@ Other:
 [![My Skills](https://skillicons.dev/icons?i=godot,discordjs)](https://skillicons.dev)   
 
 Learning:   
+
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)     
 
 # Github Stats    
