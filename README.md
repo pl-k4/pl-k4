@@ -19,6 +19,9 @@ Other:
 
 [![My Skills](https://skillicons.dev/icons?i=godot,discordjs)](https://skillicons.dev)   
 
+Learning:   
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)     
+
 # Github Stats    
 ![](https://github-readme-stats.vercel.app/api?username=Nerbles1&show_icons=true&theme=radical)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nerbles1&theme=radical&hide_border=false)<br/>
