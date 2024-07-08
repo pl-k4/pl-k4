@@ -25,7 +25,7 @@ Other:
 
 Learning:   
 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 # Github Stats    
 ![](https://github-readme-stats.vercel.app/api?username=pl-k4&show_icons=true&theme=radical)   
