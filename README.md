@@ -3,7 +3,7 @@ Hi there 👋, I'm plk4
 </h1>   
 <div align="center">          
   
-  [![Views](https://komarev.com/ghpvc/?username=Nerbles1&color=blueviolet&style=for-the-badge)](https://komarev.com)       
+  [![Views](https://komarev.com/ghpvc/?username=pl-k4&color=blueviolet&style=for-the-badge)](https://komarev.com)       
 </div>    
 
 # Languages  
@@ -24,9 +24,9 @@ Learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)     
 
 # Github Stats    
-![](https://github-readme-stats.vercel.app/api?username=Nerbles1&show_icons=true&theme=radical)   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nerbles1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerbles1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    
+![](https://github-readme-stats.vercel.app/api?username=pl-k4&show_icons=true&theme=radical)   
+![](https://github-readme-streak-stats.herokuapp.com/?user=pl-k4&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pl-k4&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)    
 
 # Discord   
 
