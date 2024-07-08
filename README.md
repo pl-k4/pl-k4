@@ -1,6 +1,10 @@
 <h1 align="center">
 Hi there 👋, I'm plk4
-</h1>   
+</h1>
+<p align="center">
+  github give the the username plk4 please. the account is inactive
+</p>
+  
 <div align="center">          
   
   [![Views](https://komarev.com/ghpvc/?username=pl-k4&color=blueviolet&style=for-the-badge)](https://komarev.com)       
